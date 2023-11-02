@@ -1,5 +1,5 @@
 # Test
-Media streaming with ibm cloud video streaming 
+**Media streaming with ibm cloud video streaming** 
 
 **PROBLEM STATEMENT:**
 Create a virtual cinema platform using IBM Cloud Video Streaming. Upload and stream
